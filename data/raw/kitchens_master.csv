@@ -1,0 +1,9 @@
+Kitchen_ID,Location,Monthly_Rent_INR,Monthly_Staff_Cost_INR,Max_Capacity_Per_Hour
+KT-100,Indiranagar,55795,60860,80
+KT-101,HSR Layout,116820,114886,60
+KT-102,Koramangala,77194,147498,100
+KT-103,Whitefield,84131,120263,100
+KT-104,Jayanagar,81090,127221,40
+KT-105,Marathahalli,40769,119735,100
+KT-106,Bellandur,104925,127969,100
+KT-107,Electronic City,93707,145305,60
